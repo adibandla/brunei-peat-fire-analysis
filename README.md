@@ -1,5 +1,5 @@
 ## Fire Impacts on Peat Microbiomes
-This repository contains all code, data, and documentation for the analysis of microbial community responses to fire in Brunei tropical peatlands. The project combines high-throughput sequencing, compositional data analysis, and robust statistical modeling to identify how fire impacts the structure and function of peatland microbiomes across soil depths.
+This repository contains the code and documentation for the analysis of microbial community responses to fire in a tropical peatland. The project combines high-throughput sequencing, compositional data analysis, and robust statistical modeling to identify how fire impacts the structure and function of peatland microbiomes across soil depths.
 
 ### Background
 Tropical peatlands are globally important carbon stores, and their microbiomes play a critical role in carbon cycling. This project investigates how fire alters the composition and diversity of bacterial and archaeal communities at different peat depths, using amplicon sequencing and advanced statistical approaches. The analysis supports the findings of the publication: Nature 2024.
