@@ -1,4 +1,4 @@
-# Brunei Peat Fire Impacts on Peat Microbiomes Analysis (R)
+# Brunei Peat Fire Impacts on Peat Microbiomes (R)
 
 
 |  #  | Title | Notebook |
