@@ -6,7 +6,7 @@ Tropical peatlands are globally important carbon stores, and their microbiomes p
 
 ### How to Cite
 If you use this code or data, please cite:
-Bandla, A. et al. (2024). Post-fire shifts in tropical peat microbiomes. Nature Microbiology. https://www.nature.com/articles/s41522-024-00478-9
+Bandla, A., Akhtar, H., Lupascu, M. et al. Elevated methane flux in a tropical peatland post-fire is linked to depth-dependent changes in peat microbiome assembly. npj Biofilms Microbiomes 10, 8 (2024). https://doi.org/10.1038/s41522-024-00478-9
 
 ### Contact
 For questions, suggestions, or contributions, please open an issue or contact adibandla via GitHub.
